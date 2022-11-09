@@ -62,7 +62,9 @@ footer {
   header {
     background-color: darkgoldenrod;
   }
-
+  .col-3 {
+    width: 33.3%;
+  }
   #column-1 {
     background-color: crimson ;
   }
@@ -87,7 +89,10 @@ footer {
   header {
     background-color: darksalmon;
   }
-
+  .col-3 {
+    width: 33.3%;
+    float: left;
+  }
   #column-1 {
     background-color:darkred ;
   }
